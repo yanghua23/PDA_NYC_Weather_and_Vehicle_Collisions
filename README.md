@@ -6,7 +6,7 @@ The used NYC hourly weather data 2013--2017 is got from [Weather Underground](ht
 
 So far, the data analysis is done on hourly data of NYC weather and vehicle collisions, and not much reliable high correlation factors are found/confirmed. This could be due to the way of using hourly data for correlation analysis, where the inherent randomness across records of different hours is still too much to observe any significant/obvious correlations. So next, I'll try daily based analysis and see if it makes any big difference or not... 
 
-The PDA code for jupyter notebook and web scraping code using Scrapy are provided here for reference. A presentation link will be provided here as well soon...
+The PDA code for jupyter notebook and web scraping code using Scrapy are provided here for reference. A detailed summary presentation can be found on [google slides](https://docs.google.com/presentation/d/13ULA60BdBZJBbE2_uybcGWT4cjJ7DqMGiHMjtuiojoc/edit?usp=sharing).
 
 Any comments/suggestions/questions are very welcome.
 
